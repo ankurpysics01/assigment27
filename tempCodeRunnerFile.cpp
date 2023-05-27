@@ -1,0 +1,1 @@
+int result=(c1==c2);
